@@ -1,0 +1,12 @@
+Origin: Codey Moore's APT Repo
+Label: Codey Moore's APT Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: RIP Lil Peep
+
+SHA256:
+ fa95ffdc9a259d74d5f649703c3128751265ed9040c34f6c5e5bf2362b0e4010 3152 Packages.bz2
+ fde6e8362510fa7ac41817ec049947cae9f210d4a2e3c8568b57105300648644 3048 Packages.xz
